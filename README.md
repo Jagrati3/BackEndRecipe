@@ -91,23 +91,38 @@ Body: { "email": "john@example.com", "password": "123456" }
 
 STEP 9 
 ### To save project to GitHub:
+
 Initialize Git:
+
 git init
+
 Add all files to the repository:
+
 git add .
+
 Commit your changes:
+
 git commit -m "Initial commit"
+
 Create a new repository on GitHub and copy the remote URL.
+
 Add the remote repository:
+
 git remote add origin <your-repo-url>
+
 Push your code:
+
 git push -u origin main
+
 Now your backend code is successfully committed to GitHub!
 
 
 STEP 10
 ### Do the Assignment (Create the database for create Recipe tab)
+
 now i need to connect he database with the frontend page 
+
 inside the navbar bar there is a create recipe section and we need to store its data into data base 
+
 i couldn't do this because i don't have knowledge for MERN i tried but couldn't fix the code 
 
