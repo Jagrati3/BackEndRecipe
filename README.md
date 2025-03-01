@@ -59,7 +59,7 @@ STEP 5
 npm start
 
 STEP 6 
-###Install MongoDB Atlas
+### Install MongoDB Atlas
 
 Follow these steps to set up MongoDB Atlas:
 
@@ -68,7 +68,7 @@ Create a Cluster: Sign up for MongoDB Atlas and create a free cluster.
 Database Access: Set up a username and password for database access.
 
 Network Access: Set the network IP to 0.0.0.0/0 to allow access from any IP.
-....................................................................................
+
 
 STEP 7 
 ### Install the chrome extension : Talend API Tester-Free Edition
@@ -80,7 +80,7 @@ Use it to test your authentication routes.
 
 
 Step 8
-###API Endpoints
+### API Endpoints
 
 User Registration
 POST /register
@@ -106,7 +106,7 @@ Now your backend code is successfully committed to GitHub!
 
 
 STEP 10
-###Do the Assignment (Create the database for create Recipe tab)
+### Do the Assignment (Create the database for create Recipe tab)
 now i need to connect he database with the frontend page 
 inside the navbar bar there is a create recipe section and we need to store its data into data base 
 i couldn't do this because i don't have knowledge for MERN i tried but couldn't fix the code 
